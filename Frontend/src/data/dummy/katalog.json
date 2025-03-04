@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "nama": "Puring",
+      "latin": "Codiaeum variegatum",
+      "image": "/assets/katalog/puring.png"
+    },
+    {
+      "id": 2,
+      "nama": "Bunga Kertas",
+      "latin": "Bougainvillea variegata",
+      "image": "/assets/katalog/bunga-kertas.png"
+    },
+    {
+      "id": 3,
+      "nama": "Bayam Merah Hias",
+      "latin": "Iresine herbstii",
+      "image": "/assets/katalog/bayam-merah-hias.png"
+    },
+    {
+      "id": 4,
+      "nama": "Adam Hawa",
+      "latin": "Tradescantia pallida",
+      "image": "/assets/katalog/adam-hawa.png"
+    },
+    {
+      "id": 5,
+      "nama": "Sirih Gading",
+      "latin": "Epipremnum aureum",
+      "image": "/assets/katalog/sirih-gading.png"
+    },
+    {
+      "id": 6,
+      "nama": "Kaca Piring",
+      "latin": "Gardenia jasminoides",
+      "image": "/assets/katalog/kaca-piring.png"
+    },
+    {
+      "id": 7,
+      "nama": "Pacing Merah",
+      "latin": "Coctus woodsonii",
+      "image": "/assets/katalog/pacing-merah.png"
+    },
+    {
+      "id": 8,
+      "nama": "Palem Merah",
+      "latin": "Cyrtostachys renda",
+      "image": "/assets/katalog/palem-merah.png"
+    },
+    {
+      "id": 9,
+      "nama": "Lidah Mertua",
+      "latin": "Sansevieria trifasciata",
+      "image": "/assets/katalog/lidah-mertua.png"
+    },
+    {
+      "id": 10,
+      "nama": "Putri Malu",
+      "latin": "Mimosa pudica",
+      "image": "/assets/katalog/putri-malu.png"
+    }
+]
+  

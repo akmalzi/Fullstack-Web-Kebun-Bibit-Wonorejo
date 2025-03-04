@@ -1,0 +1,86 @@
+[
+  {
+    "title": "Area Pepohonan",
+    "detail": "Area Pepohonan di Kebun Bibit Wonorejo adalah tempat yang didedikasikan untuk berbagai jenis pohon. Pengunjung dapat menikmati suasana hijau dan belajar mengenai jenis-jenis pohon yang ditanam di area ini, sambil memahami pentingnya pelestarian lingkungan.",
+    "image": "/assets/navigasi/popup-detail/image/area-pepohonan.png",
+    "icons" : ["/assets/navigasi/popup-detail/icon/pohon1-icon.png","/assets/navigasi/popup-detail/icon/pohon2-icon.png"]
+  },
+  {
+    "title": "Area Pembibitan",
+    "detail": "Temukan area khusus pembibitan tanaman di Kebun Bibit Wonorejo yang tertata rapi dan Jelajahi lebih lanjut untuk melihat berbagai jenis tanaman yang sedang dalam tahap awal pertumbuhan.",
+    "image": "/assets/navigasi/popup-detail/image/area-pembibitan.png",
+    "icons" : ["/assets/navigasi/popup-detail/icon/pembibitan1-icon.png","/assets/navigasi/popup-detail/icon/pembibitan2-icon.png"]
+  },
+  {
+    "title": "Tempat Bermain Anak",
+    "detail": "Tempat Bermain Anak menyediakan area yang aman dan menyenangkan bagi anak-anak untuk bermain. Dengan lingkungan yang alami, area ini cocok untuk anak-anak yang ingin bermain dan bereksplorasi di luar ruangan sambil menikmati suasana hijau di sekitarnya.",
+    "image": "/assets/navigasi/popup-detail/image/tempat-bermain-anak.png",
+    "icons" : ["/assets/navigasi/popup-detail/icon/playground1-icon.png","/assets/navigasi/popup-detail/icon/playground2-icon.png"]
+  },
+  {
+    "title": "Wisata Kuliner",
+    "detail": "Kebun Bibit Wonorejo menawarkan beragam pilihan makanan dan minuman untuk pengunjung. Tempat ini cocok sebagai lokasi istirahat sambil menikmati hidangan, memberikan kesempatan untuk mencoba berbagai kuliner lokal setelah berkeliling kebun.",
+    "image": "/assets/navigasi/popup-detail/image/wisata-kuliner.png",
+    "icons" : ["/assets/navigasi/popup-detail/icon/culinary1-icon.png","/assets/navigasi/popup-detail/icon/culinary2-icon.png"]
+  },
+  {
+    "title": "Learning Center",
+    "detail": "Learning Center di Kebun Bibit Wonorejo adalah tempat edukasi bagi pengunjung untuk mempelajari berbagai aspek pembibitan dan perawatan tanaman. Di sini, pengunjung bisa mendapatkan informasi yang mendukung pemahaman tentang konservasi lingkungan dan pembibitan tanaman.",
+    "image": "/assets/navigasi/popup-detail/image/learning-center.png",
+    "icons" : ["/assets/navigasi/popup-detail/icon/learningCenter1-icon.png","/assets/navigasi/popup-detail/icon/learningCenter2-icon.png"]
+  },
+  {
+    "title": "Toilet & Musholla",
+    "detail": "Toilet & Musholla di Kebun Bibit Wonorejo menyediakan fasilitas bagi pengunjung untuk beristirahat dan beribadah. Tempat ini dirancang nyaman dan bersih, memberikan kenyamanan bagi siapa pun yang ingin menggunakan fasilitas ini selama berkunjung.",
+    "image": "/assets/navigasi/popup-detail/image/toilet-dan-musholla.png",
+    "icons" : ["/assets/navigasi/popup-detail/icon/mushalla-icon.png","/assets/navigasi/popup-detail/icon/toilet-icon.png"]
+  },
+  {
+    "title": "Green House",
+    "detail": "Green House di Kebun Bibit Wonorejo adalah area pembibitan khusus yang menampilkan berbagai jenis tanaman dalam tahap awal pertumbuhan. Jelajahi untuk melihat beragam tanaman yang tertata rapi dan terawat.",
+    "image": "/assets/navigasi/popup-detail/image/green-house.png",
+    "icons" : ["/assets/navigasi/popup-detail/icon/greenhouse1-icon.png","/assets/navigasi/popup-detail/icon/greenhouse2-icon.png"]
+  },
+  {
+    "title": "Kantor Pengurus",
+    "detail": "Kantor pengelola Kebun Bibit Wonorejo berfungsi sebagai pusat informasi dan layanan bagi pengunjung. Di sini, Anda dapat memperoleh berbagai informasi terkait fasilitas, kegiatan, dan panduan yang tersedia untuk menikmati kebun ini dengan lebih maksimal.",
+    "image": "/assets/navigasi/popup-detail/image/kantor-pengurus.png",
+    "icons" : ["/assets/navigasi/popup-detail/icon/office1-icon.png","/assets/navigasi/popup-detail/icon/office2-icon.png"]
+  },
+  {
+    "title": "Kandang Rusa Tutul",
+    "detail": "Kandang Rusa Tutul di Kebun Bibit Wonorejo memungkinkan pengunjung melihat rusa tutul dalam habitat alami, sambil meningkatkan kesadaran akan konservasi satwa. Area ini menawarkan pengalaman dekat dengan alam dan satwa unik ini.",
+    "image": "/assets/navigasi/popup-detail/image/kandang-rusa-tutul.png",
+    "icons" : ["/assets/navigasi/popup-detail/icon/rusa1-icon.png","/assets/navigasi/popup-detail/icon/rusa2-icon.png"]
+  },
+  {
+    "title": "Kandang Burung Merpati",
+    "detail": "Kandang Burung Merpati di Kebun Bibit Wonorejo merupakan area khusus untuk burung merpati. Di sini, pengunjung dapat melihat burung-burung merpati dalam lingkungan yang nyaman dan alami, sambil menikmati suasana alam sekitar.",
+    "image": "/assets/navigasi/popup-detail/image/kandang-merpati.png",
+    "icons" : ["/assets/navigasi/popup-detail/icon/burung1-icon.png","/assets/navigasi/popup-detail/icon/burung2-icon.png"]
+  },
+  {
+    "title": "Gazebo",
+    "detail": "Gazebo di Kebun Bibit Wonorejo merupakan tempat yang nyaman untuk berkumpul bersama keluarga atau mengadakan acara kecil. Area ini dikelilingi oleh pepohonan hijau, menciptakan suasana alami dan sejuk yang cocok untuk piknik, pertemuan keluarga, atau kegiatan outdoor lainnya.",
+    "image": "/assets/navigasi/popup-detail/image/gazebo.png",
+    "icons" : ["/assets/navigasi/popup-detail/icon/gazeboo1-icon.png","/assets/navigasi/popup-detail/icon/gazeboo2-icon.png"]
+  },
+  {
+    "title": "Area Olahraga",
+    "detail": "Area Olahraga di Kebun Bibit Wonorejo adalah tempat yang dirancang untuk kegiatan fisik dan rekreasi. Pengunjung dapat memanfaatkan area ini untuk berolahraga ringan sambil menikmati suasana alam sekitar yang hijau dan sejuk.",
+    "image": "/assets/navigasi/popup-detail/image/area-olahraga.png",
+    "icons" : ["/assets/navigasi/popup-detail/icon/olahraga1-icon.png","/assets/navigasi/popup-detail/icon/olahraga2-icon.png"]
+  },
+  {
+    "title": "Danau",
+    "detail": "Danau di Kebun Bibit Wonorejo adalah area yang menambah keindahan alam dan menawarkan ketenangan bagi pengunjung. Dengan lingkungan yang asri dan suasana yang tenang, danau ini cocok untuk bersantai, menikmati pemandangan air, atau sekadar berjalan-jalan di sekitarnya.",
+    "image": "/assets/navigasi/popup-detail/image/danau.png",
+    "icons" : ["/assets/navigasi/popup-detail/icon/lake1-icon.png","/assets/navigasi/popup-detail/icon/lake2-icon.png"]
+  },
+  {
+    "title": "Camp Ground",
+    "detail": "Camp Ground di Kebun Bibit Wonorejo merupakan lokasi ideal untuk kegiatan camping. Tempat ini menyediakan area terbuka yang aman dan dikelilingi pepohonan hijau, menciptakan pengalaman berkemah yang menyenangkan dan edukatif. Siswa dapat belajar sambil menikmati suasana alam yang sejuk.",
+    "image": "/assets/navigasi/popup-detail/image/camp-ground.png",
+    "icons" : ["/assets/navigasi/popup-detail/icon/camp1-icon.png","/assets/navigasi/popup-detail/icon/camp2-icon.png"]
+  }
+]

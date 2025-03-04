@@ -1,0 +1,58 @@
+[
+    {
+        "username" : "Gina",
+        "review" : "Kami sangat menikmati fasilitas dan suasana yang ditawarkan. Mulai dari taman bermain hingga area camping, semuanya dirancang dengan baik untuk kenyamanan pengunjung. Pasti akan datang kembali!",
+        "date" : "3 September 2023",
+        "image" : "/assets/users/user-profile1.png",
+        "rate" : 5
+    },
+    {
+        "username" : "Vadel",
+        "review" : "Saya sangat menikmati suasana hijau di Kebun Bibit ini. Selain bagus untuk refreshing, tempat ini juga menyediakan banyak spot foto yang Instagrammable!",
+        "date" : "24 Juli 2023",
+        "image" : "/assets/users/user-profile.png",
+        "rate" : 5
+    },
+    {
+        "username" : "Dono",
+        "review" : "Kami sangat menikmati fasilitas dan suasana yang ditawarkan. Mulai dari taman bermain hingga area camping, semuanya dirancang dengan baik untuk kenyamanan pengunjung. Pasti akan datang kembali!",
+        "date" : "11 November 2023",
+        "image" : "/assets/users/user-profile1.png",
+        "rate" : 4
+    },
+    {
+        "username" : "Nisa",
+        "review" : "Kami sangat menikmati fasilitas dan suasana yang ditawarkan. Mulai dari taman bermain hingga area camping, semuanya dirancang dengan baik untuk kenyamanan pengunjung. Pasti akan datang kembali!",
+        "date" : "29 Februari 2024",
+        "image" : "/assets/users/user-profile.png",
+        "rate" : 3
+    },
+    {
+        "username" : "Akbar",
+        "review" : "Kami sangat menikmati fasilitas dan suasana yang ditawarkan. Mulai dari taman bermain hingga area camping, semuanya dirancang dengan baik untuk kenyamanan pengunjung. Pasti akan datang kembali!",
+        "date" : "29 Februari 2024",
+        "image" : "/assets/users/user-profile.png",
+        "rate" : 3
+    },
+    {
+        "username" : "Akbar",
+        "review" : "Kami sangat menikmati fasilitas dan suasana yang ditawarkan. Mulai dari taman bermain hingga area camping, semuanya dirancang dengan baik untuk kenyamanan pengunjung. Pasti akan datang kembali!",
+        "date" : "29 Februari 2024",
+        "image" : "/assets/users/user-profile.png",
+        "rate" : 3
+    },
+    {
+        "username" : "Akbar",
+        "review" : "Kami sangat menikmati fasilitas dan suasana yang ditawarkan. Mulai dari taman bermain hingga area camping, semuanya dirancang dengan baik untuk kenyamanan pengunjung. Pasti akan datang kembali!",
+        "date" : "29 Februari 2024",
+        "image" : "/assets/users/user-profile.png",
+        "rate" : 3
+    },
+    {
+        "username" : "Akbar",
+        "review" : "Kami sangat menikmati fasilitas dan suasana yang ditawarkan. Mulai dari taman bermain hingga area camping, semuanya dirancang dengan baik untuk kenyamanan pengunjung. Pasti akan datang kembali!",
+        "date" : "29 Februari 2024",
+        "image" : "/assets/users/user-profile.png",
+        "rate" : 3
+    }
+]

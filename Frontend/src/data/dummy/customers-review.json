@@ -1,0 +1,14 @@
+[
+    {
+        "username" : "Laura",
+        "review" : "Kami sangat menikmati fasilitas dan suasana yang ditawarkan. Mulai dari taman bermain hingga area camping, semuanya dirancang dengan baik untuk kenyamanan pengunjung. Pasti akan datang kembali!",
+        "role" : "Pengunjung",
+        "userImg" : "/assets/users/user-profile1.png"
+    },
+    {
+        "username" : "Vadel",
+        "review" : "Pengalaman yang luar biasa! Anak-anak sangat menyukai mini zoo, dan rute kebun memberikan pemandangan yang menyegarkan. Tempat yang sempurna untuk liburan keluarga.",
+        "role" : "Pengunjung",
+        "userImg" : "/assets/users/user-profile.png"
+    }
+]

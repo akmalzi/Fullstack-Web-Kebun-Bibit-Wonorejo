@@ -1,0 +1,38 @@
+[
+    {
+      "gambar": "/assets/edukasi/media-tanam.png",
+      "langkah": "Persiapkan Media Tanam",
+      "tataCara": "Sebelum mulai menanam, pastikan Anda telah memilih media tanam yang tepat. Tanah harus gembur, subur, dan mengandung nutrisi yang cukup untuk mendukung pertumbuhan bibit",
+      "tahapan":[]
+    },
+    {
+      "gambar": "/assets/edukasi/pilih-bibit.png",
+      "langkah": "Pilih Bibit yang Sesuai",
+      "tataCara": "Pilih bibit yang sesuai dengan kondisi lingkungan di sekitar Anda, baik dari segi cahaya, kelembapan, maupun ruang tumbuh.",
+      "tahapan":["Tentukan bibit sesuai preferensi, seperti tanaman hias, tanaman buah, atau tanaman obat.","Pastikan bibit dalam kondisi sehat, tidak layu atau berpenyakit."]
+    },
+    {
+      "gambar": "/assets/edukasi/tanam-bibit.png",
+      "langkah": "Penanaman Bibit",
+      "tataCara": "Penanaman bibit memerlukan perhatian khusus agar akar dapat berkembang dengan baik di media tanam.",
+      "tahapan":["Buat lubang kecil di tanah dengan kedalaman yang sesuai dengan jenis bibit.","Masukkan bibit ke dalam lubang, lalu tutup kembali dengan tanah secara perlahan.","Tekan sedikit tanah di sekitar bibit untuk memastikan bibit tertanam kuat, namun tidak terlalu keras."]
+    },
+    {
+      "gambar": "/assets/edukasi/penyiraman.png",
+      "langkah": "Penyiraman yang Tepat",
+      "tataCara": "Penyiraman adalah kunci untuk memastikan bibit tumbuh subur. Namun, jumlah air yang diperlukan setiap bibit bisa berbeda.",
+      "tahapan":["Siram bibit dengan air secukupnya.","Pastikan tanah tetap lembap, namun hindari genangan air.","Frekuensi penyiraman disesuaikan dengan jenis tanaman dan kondisi cuaca. Biasanya, tanaman disiram setiap 2-3 hari sekali."]
+    },
+    {
+      "gambar": "/assets/edukasi/perawatan.png",
+      "langkah": "Pemupukan & Perawatan Lanjutan",
+      "tataCara": "Bibit yang baru ditanam memerlukan nutrisi tambahan agar dapat tumbuh optimal. Pemupukan dilakukan secara berkala untuk",
+      "tahapan":["Berikan pupuk organik atau kompos sekitar 2-3 minggu setelah penanaman.","Hindari penggunaan pupuk kimia secara berlebihan agar tidak merusak akar bibit.","Periksa secara berkala untuk memastikan tanaman bebas dari hama dan penyakit."]
+    },
+    {
+      "gambar": "/assets/edukasi/suhu-cahaya.png",
+      "langkah": "Pencahayaan & Suhu",
+      "tataCara": "Pastikan bibit Anda mendapatkan cahaya yang cukup untuk fotosintesis.",
+      "tahapan":["Tempatkan tanaman di area yang mendapatkan sinar matahari sesuai kebutuhan, beberapa tanaman memerlukan sinar penuh, sementara yang lain hanya membutuhkan cahaya redup.","Jika bibit ditanam di dalam ruangan, pastikan menggunakan pencahayaan buatan yang memadai."]
+    }
+]  

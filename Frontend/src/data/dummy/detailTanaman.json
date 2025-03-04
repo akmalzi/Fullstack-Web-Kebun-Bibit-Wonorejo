@@ -1,0 +1,73 @@
+[
+    {
+      "parameter": "1",
+      "nama" : "Puring",
+      "nama-latin": "Codiaeum variegatum",
+      "penjelasan": "Tanaman pada gambar adalah Puring atau dikenal juga sebagai Croton (Codiaeum variegatum). Puring memiliki karakteristik daun dengan berbagai macam bentuk dan warna yang cerah, seperti hijau, merah, kuning, dan oranye. Tanaman ini sering dijadikan tanaman hias karena warna daunnya yang menarik dan mudah tumbuh di iklim tropis.",
+      "image": "/assets/katalog/puring.png"
+    },
+    {
+      "parameter": "2",
+      "nama" : "Bunga Kertas",
+      "nama-latin": "Bougainvillea variegata",
+      "penjelasan": "Tanaman pada gambar adalah Bunga Kertas atau dikenal juga sebagai Croton (Codiaeum variegatum). Puring memiliki karakteristik daun dengan berbagai macam bentuk dan warna yang cerah, seperti hijau, merah, kuning, dan oranye. Tanaman ini sering dijadikan tanaman hias karena warna daunnya yang menarik dan mudah tumbuh di iklim tropis.",
+      "image": "/assets/katalog/bunga-kertas.png"
+    },
+    {
+      "parameter": "3",
+      "nama" : "Bayam Merah Hias",
+      "nama-latin": "Iresine herbstii",
+      "penjelasan": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime aliquid magni vitae similique doloribus praesentium iure natus ex quos molestias cumque dolores, recusandae quia quam. Cumque assumenda laborum dicta cum voluptatem quas numquam obcaecati aperiam veritatis exercitationem molestias excepturi nisi magnam officia eius, alias ea, culpa aut id dignissimos eos.",
+      "image": "/assets/katalog/bayam-merah-hias.png"
+    },
+    {
+      "parameter": "4",
+      "nama" : "Adam Hawa",
+      "nama-latin": "Tradescantia pallida",
+      "penjelasan": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime aliquid magni vitae similique doloribus praesentium iure natus ex quos molestias cumque dolores, recusandae quia quam. Cumque assumenda laborum dicta cum voluptatem quas numquam obcaecati aperiam veritatis exercitationem molestias excepturi nisi magnam officia eius, alias ea, culpa aut id dignissimos eos.",
+      "image": "/assets/katalog/adam-hawa.png"
+    },
+    {
+      "parameter": "5",
+      "nama" : "Sirih Gading",
+      "nama-latin": "Epipremnum aureum",
+      "penjelasan": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime aliquid magni vitae similique doloribus praesentium iure natus ex quos molestias cumque dolores, recusandae quia quam. Cumque assumenda laborum dicta cum voluptatem quas numquam obcaecati aperiam veritatis exercitationem molestias excepturi nisi magnam officia eius, alias ea, culpa aut id dignissimos eos.",
+      "image": "/assets/katalog/sirih-gading.png"
+    },
+    {
+      "parameter": "6",
+      "nama" : "Kaca Piring",
+      "nama-latin": "Gardenia jasminoides",
+      "penjelasan": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime aliquid magni vitae similique doloribus praesentium iure natus ex quos molestias cumque dolores, recusandae quia quam. Cumque assumenda laborum dicta cum voluptatem quas numquam obcaecati aperiam veritatis exercitationem molestias excepturi nisi magnam officia eius, alias ea, culpa aut id dignissimos eos.",
+      "image": "/assets/katalog/kaca-piring.png"
+    },
+    {
+      "parameter": "7",
+      "nama" : "Pacing Merah",
+      "nama-latin": "Coctus woodsonii",
+      "penjelasan": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime aliquid magni vitae similique doloribus praesentium iure natus ex quos molestias cumque dolores, recusandae quia quam. Cumque assumenda laborum dicta cum voluptatem quas numquam obcaecati aperiam veritatis exercitationem molestias excepturi nisi magnam officia eius, alias ea, culpa aut id dignissimos eos.",
+      "image": "/assets/katalog/pacing-merah.png"
+    },
+    {
+      "parameter": "8",
+      "nama" : "Palem Merah",
+      "nama-latin": "Cyrtostachys renda",
+      "penjelasan": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime aliquid magni vitae similique doloribus praesentium iure natus ex quos molestias cumque dolores, recusandae quia quam. Cumque assumenda laborum dicta cum voluptatem quas numquam obcaecati aperiam veritatis exercitationem molestias excepturi nisi magnam officia eius, alias ea, culpa aut id dignissimos eos.",
+      "image": "/assets/katalog/palem-merah.png"
+    },
+    {
+      "parameter": "9",
+      "nama" : "Lidah Mertua",
+      "nama-latin": "Sansevieria trifasciata",
+      "penjelasan": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime aliquid magni vitae similique doloribus praesentium iure natus ex quos molestias cumque dolores, recusandae quia quam. Cumque assumenda laborum dicta cum voluptatem quas numquam obcaecati aperiam veritatis exercitationem molestias excepturi nisi magnam officia eius, alias ea, culpa aut id dignissimos eos.",
+      "image": "/assets/katalog/lidah-mertua.png"
+    },
+    {
+      "parameter": "10",
+      "nama" : "Putri Malu",
+      "nama-latin": "Mimosa pudica",
+      "penjelasan": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime aliquid magni vitae similique doloribus praesentium iure natus ex quos molestias cumque dolores, recusandae quia quam. Cumque assumenda laborum dicta cum voluptatem quas numquam obcaecati aperiam veritatis exercitationem molestias excepturi nisi magnam officia eius, alias ea, culpa aut id dignissimos eos.",
+      "image": "/assets/katalog/putri-malu.png"
+    }
+]
+  
